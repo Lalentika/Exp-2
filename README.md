@@ -14,11 +14,11 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 Use case Diagram
 
-<img width="1152" height="1017" alt="image" src="https://github.com/user-attachments/assets/ee1a3e10-ceae-4b67-a37d-0dec8351eb6b" />
+![UseCaseDiagram1](https://github.com/user-attachments/assets/8b7b254d-5a6d-416f-8869-d272758e30af)
 
 Activity Diagram
 
-<img width="1044" height="1010" alt="image" src="https://github.com/user-attachments/assets/9793fa64-90ab-40f1-a700-d862a7dd5233" />
+![LIBRARYActivity](https://github.com/user-attachments/assets/9ffb5f80-b561-4d89-a4c9-53ff2becc9f3)-40f1-a700-d862a7dd5233" />
 
 Class Diagram
 
