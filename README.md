@@ -18,7 +18,7 @@ Use case Diagram
 
 Activity Diagram
 
-![LIBRARYActivity](https://github.com/user-attachments/assets/9ffb5f80-b561-4d89-a4c9-53ff2becc9f3)-40f1-a700-d862a7dd5233" />
+![LIBRARYActivity](https://github.com/user-attachments/assets/9ffb5f80-b561-4d89-a4c9-53ff2becc9f3)
 
 Class Diagram
 
